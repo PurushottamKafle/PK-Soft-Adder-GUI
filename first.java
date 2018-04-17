@@ -1,3 +1,9 @@
+/**
+* This is just a test of GUI - JOptionPane
+* Developed by Purushottam Kafle.
+*
+**/
+
 package pksoft;
 import javax.swing.*;
 import javax.swing.JOptionPane;
